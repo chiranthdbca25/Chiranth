@@ -1,5 +1,0 @@
-IVC
-Python
-OS
-COA
-DSA
